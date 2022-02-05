@@ -1,0 +1,3 @@
+NODE       CPU%      MEMORY%
+MasterNode 0.73       25.42
+WorkerNode 0.43       35.79
